@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/c,c++,cmake,linux,macos,kotlin,gradle,android,windows,intellij+all,androidstudio,jetbrains+all
 
-!/testapp/libs/testplayer-debug.aar
+!testapp/libs/testplayer-debug.aar
 
 ### Android ###
 # Built application files
